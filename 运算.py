@@ -1,0 +1,17 @@
+a=17/3
+print(a)
+b=17//3
+print(b)
+c=5*3+2
+print(c)
+d=4**2
+e=2**3
+print(d,e)
+x=5
+x+=3
+#等效于x=x+#
+print(x)
+y=8
+z=y%3
+#%是取余数#
+print(z)
