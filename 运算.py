@@ -15,3 +15,5 @@ y=8
 z=y%3
 #%是取余数#
 print(z)
+d=a+b
+print(d)
